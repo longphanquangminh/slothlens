@@ -1,0 +1,3 @@
+🦥 found 1 uneaten screenshots. at sloth speed that's about 4m22s.
+🌿 [1/1] chewing Screenshot 2026-10-19 at 23.41.07.png ...
+    4m46s  [error] Magento CMS couldn't load posts due to a CORS error. 🔒  ⏰ Retry loading posts in Magento.

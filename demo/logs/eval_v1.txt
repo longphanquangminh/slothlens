@@ -1,0 +1,21 @@
+✓       error → error       🔒  3m50s  VITE magentic-cms fails to fetch loadPosts due to CORS error.
+✓        chat → chat        🔒  2m51s  Minh Tran asks for slides and HDMI adapter for ITCC pitch.
+✗ credentials → chat        🔒  4m38s  Vietcombank OTP message for account [REDACTED] expires in 2 minutes.
+✓ credentials → credentials 🔒  3m39s  Review Magento CMS environment variables for Stripe and OpenAI integration.
+✓     booking → booking     🔒  3m39s  VietJet flight details confirmed for Ho Chi Minh to Hanoi.
+✗      social → chat            3m07s  Senior developer explains Docker's origin in a Stack Overflow chat.
+✗     booking → other       🔒  3m34s  Google Calendar shows frontend intern technical interview details.
+✓        code → code        🔒  2m42s  How to clone a complex JSON object in JavaScript
+✓        code → code        🔒  5m19s  Octo-reviewer requests memoization for real-time co-editing feature #42
+✓     receipt → receipt     🔒  3m26s  Vietcombank transfer of 2.5 million VND to Nguyen Van An.
+✓         map → map         🔒  3m30s  Workshop Coffee details in Hanoi, Hacktoberfest meetup event.
+✓        chat → chat        🔒  3m28s  MLH Hacktoberfest reminder: submissions deadline and challenge hashtags.
+✓ credentials → credentials 🔒  3m00s  The Workshop guest WiFi login details are displayed.
+✓       error → error       🔒  2m41s  Slothshot DB error during search in SQLite, need to fix.
+
+screenshots scored     14
+category accuracy      11/14
+sensitive  recall      4/4   false alarms 9
+remember   recall      3/6   false alarms 0
+secrets in database    0 
+chew time              avg 3m32s, min 2m41s, max 5m19s, total 49m25s

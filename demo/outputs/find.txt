@@ -1,0 +1,11 @@
+$ slothlens find cors
+#16   Oct 19  [error] Vite error fetching posts from local API server, 8080
+      demo/graveyard/Screenshot 2026-10-19 at 23.41.07.png
+
+$ slothlens find "otp vietcombank"
+#13   Oct 20  [chat] Vietcombank sent a one-time code for account [REDACTED]. 🔒
+      demo/graveyard/Screenshot 2026-10-20 at 21.13.09.png
+
+$ slothlens find interview
+#9    Oct 22  [booking] Google Calendar invites technical interview for frontend intern React/TypeScript project
+      demo/graveyard/Screenshot 2026-10-22 at 08.05.50.png

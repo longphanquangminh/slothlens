@@ -1,0 +1,24 @@
+$ slothlens tidy --apply
+moved 16 files. changed your mind? `slothlens undo` (batch 0621bf83)
+
+$ tree ~/Pictures/slothlens
+2026-10/
+├── booking/      2026-10-21_vietjet-air-booking-details.png
+│                 2026-10-22_frontend-interview-react-typescript.png
+├── chat/         2026-10-20_minh-tran-slides-request.png
+│                 2026-10-20_vietcombank-otp-message.png
+│                 2026-10-21_docker-origin-chat.png
+│                 2026-10-24_dev-team-hacktoberfest-reminder.png
+├── code/         2026-10-22_json-structured-clone.png
+│                 2026-10-23_code-memoization-co-editing.png
+├── credentials/  2026-10-21_magentic-cms-env.png
+│                 2026-10-24_the-workshop-wifi-login.png
+├── design/       2026-10-22_fintech-dashboard-concept.png
+├── error/        2026-10-19_vite-cors-error.png
+│                 2026-10-24_sqlite-db-error.png
+├── map/          2026-10-23_workshop-coffee-meetup.png
+└── receipt/      2026-10-20_grabfood-order-details.png
+                  2026-10-23_vietcombank-transfer-receipt.png
+
+$ slothlens undo
+put 16 files back where they were.

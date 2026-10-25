@@ -1,0 +1,82 @@
+{
+  "Screenshot 2026-10-19 at 23.41.07.png": {
+    "category": "error",
+    "sensitive": false,
+    "remember": false
+  },
+  "Screenshot_20261020-100255_Messenger.jpg": {
+    "category": "chat",
+    "sensitive": false,
+    "remember": true
+  },
+  "Screenshot_20261020-124731_Grab.jpg": {
+    "category": "receipt",
+    "sensitive": false,
+    "remember": false
+  },
+  "Screenshot_20261020-211309_Messages.jpg": {
+    "category": "credentials",
+    "sensitive": true,
+    "remember": false
+  },
+  "Screenshot 2026-10-21 at 01.58.44.png": {
+    "category": "credentials",
+    "sensitive": true,
+    "remember": false
+  },
+  "Ảnh màn hình 2026-10-21 lúc 09.14.33.png": {
+    "category": "booking",
+    "sensitive": false,
+    "remember": true
+  },
+  "Screenshot 2026-10-21 at 15.30.12.png": {
+    "category": "social",
+    "sensitive": false,
+    "remember": false
+  },
+  "Screenshot 2026-10-22 at 08.05.50.png": {
+    "category": "booking",
+    "sensitive": false,
+    "remember": true
+  },
+  "Screenshot 2026-10-22 at 14.21.03.png": {
+    "category": "code",
+    "sensitive": false,
+    "remember": false
+  },
+  "Screenshot 2026-10-22 at 19.48.26.png": {
+    "category": "design",
+    "sensitive": false,
+    "remember": false
+  },
+  "Screenshot 2026-10-23 at 00.12.40.png": {
+    "category": "code",
+    "sensitive": false,
+    "remember": true
+  },
+  "Screenshot_20261023-113618_VCB Digibank.jpg": {
+    "category": "receipt",
+    "sensitive": true,
+    "remember": false
+  },
+  "Screenshot 2026-10-23 at 18.02.09.png": {
+    "category": "map",
+    "sensitive": false,
+    "remember": true
+  },
+  "Screenshot 2026-10-24 at 09.20.44.png": {
+    "category": "chat",
+    "sensitive": false,
+    "remember": true
+  },
+  "Screenshot_20261024-130715_Zalo.jpg": {
+    "category": "credentials",
+    "sensitive": true,
+    "remember": false
+  },
+  "Screenshot 2026-10-24 at 16.44.52.png": {
+    "category": "error",
+    "sensitive": false,
+    "remember": false
+  }
+}

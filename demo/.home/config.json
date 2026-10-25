@@ -1,0 +1,5 @@
+{
+  "watch_dirs": ["demo/graveyard"],
+  "archive_dir": "demo/archive",
+  "pace_s": 20
+}

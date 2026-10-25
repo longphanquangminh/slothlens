@@ -1,0 +1,3 @@
+🦥 eaten: 16   waiting: 0   avg chew: 4m16s
+   flagged sensitive: 4   open reminders: 9
+   last nap: Sun 03:40, ate 1, woke because ran out of screenshots

@@ -1,0 +1,23 @@
+✓       error → error       🔒  4m46s  Magento CMS couldn't load posts due to a CORS error.
+✓        chat → chat            4m03s  Minh Trần asks Long to send a demo of slide pitch ITCC.
+✓     receipt → receipt         5m10s  Grab order total of 66.000 VND from Com Tam Phuc Loc Tho
+✗ credentials → chat            4m12s  Vietcombank OTP payment failure, [REDACTED] VND, Hanoi
+✓ credentials → credentials 🔒  5m30s  Magento CMS environment file shows database credentials and API keys.
+✓     booking → booking         3m45s  Vietjet Air confirms booking K7QX2M flight details.
+✗      social → chat            3m34s  Stack Overflow post about Docker and junior developer's question.
+✓     booking → booking         4m55s  Google Calendar shows Frontend Intern coding session on Thu 10, 2026.
+✓        code → code        🔒  3m42s  How to deep clone a JavaScript object efficiently?
+✓      design → design          4m01s  Nova Studio fintech dashboard shows $24,562.00 balance and 68% savings goal.
+✓        code → code            3m30s  GitHub pull request to merge cms files for Yjs co-editing.
+✓     receipt → receipt     🔒  5m18s  Vietcombank transfer receipt for 2.5M VND to Nguyen Van An.
+✓         map → map             5m07s  Google Maps shows The Workshop Coffee in Hanoi, Vietnam.
+✓        chat → chat            4m12s  MLH Hacktoberfest announces Week 3 challenge submission deadline and winners.
+✗ credentials → chat        🔒  4m17s  The Workshop Coffee asks about a customer's laptop issue.
+✓       error → error           4m17s  Slothlens python fts5 error in Long/dev/db/slothlens/db.py
+
+screenshots scored     16
+category accuracy      13/16
+sensitive  recall      3/4   false alarms 2
+remember   recall      4/6   false alarms 7
+secrets in database    1 ['hunter2']
+chew time              avg 4m24s, min 3m30s, max 5m30s, total 1h10m

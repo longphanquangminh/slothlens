@@ -1,0 +1,24 @@
+$ slothlens status
+🦥 eaten: 0   waiting: 16   avg chew: 0s
+   at this pace the rest takes 32m00s of sleep
+$ slothlens nap --now
+🦥 found 16 uneaten screenshots. at sloth speed that's about 32m00s.
+🌿 [1/16] chewing Screenshot 2026-10-24 at 16.44.52.png ...
+~~ 3 minutes 42 seconds later
+    3m42s  [error] Slothshot reports SQLite error near '...' in db.py
+🌿 [2/16] chewing Screenshot 2026-10-24 at 13.07.15.png ...
+~~ 3 minutes 36 seconds later
+    3m36s  [credentials] The Workshop WiFi login details screenshot. 🔒
+🌿 [3/16] chewing Screenshot 2026-10-24 at 09.20.44.png ...
+~~ 3 minutes 45 seconds later
+    3m45s  [chat] MLH Hacktoberfest Dev Team reminder about submissions deadline.  ⏰ Reply to the Dev Team about the #devchallenge by Oct 25.
+~~ ...the sloth keeps chewing for another hour. you are asleep.
+    6m37s  [booking] Google Calendar invites technical interview for frontend intern React/TypeScript project  ⏰ Prepare React/TypeScript project walkthrough for interview on Oct 27th, 10:00 AM (GMT+7)
+    3m50s  [chat] Vietcombank sent a one-time code for account [REDACTED]. 🔒
+$ slothlens find cors
+#16   Oct 19  [error] Vite error fetching posts from local API server, 8080
+      demo/graveyard/Screenshot 2026-10-19 at 23.41.07.png
+$ slothlens remember
+#9    ⏰ Prepare React/TypeScript project walkthrough for interview on Oct 27th, 10:00 AM (GMT+7)
+#4    ⏰ Check the Hacktoberfest meetup details on Sat 25 Oct.
+#15   ⏰ Reply to Minh Tran about the slides by Friday.

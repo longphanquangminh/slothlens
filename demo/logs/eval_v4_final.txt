@@ -1,0 +1,23 @@
+✓       error → error           3m57s  Vite error fetching posts from local API server, 8080
+✓        chat → chat            3m40s  Minh Tran asks for slides for ITCC pitch by Friday.
+✓     receipt → receipt         4m21s  GrabFood order total is 66000 VND with a -20000 VND promo.
+✗ credentials → chat        🔒  3m50s  Vietcombank sent a one-time code for account [REDACTED].
+✓ credentials → credentials 🔒  4m40s  Magento CMS environment variables reveal Stripe API key and public URL.
+✓     booking → booking         3m59s  VietJet Air booking confirmation for Ho Chi Minh City to Hanoi flight.
+✗      social → chat            5m03s  Senior dev explains Docker's origin in a Stack Overflow chat.
+✓     booking → booking         6m37s  Google Calendar invites technical interview for frontend intern React/TypeScript project
+✓        code → code            3m25s  Stack Overflow: cloning JSON objects with structuredClone for complex data
+✓      design → design          3m32s  Dribbble fintech dashboard shows a 68% savings goal.
+✓        code → code            3m50s  Octo viewer requests memoization for co-editing feature #42
+✓     receipt → receipt     🔒  4m15s  Vietcombank transfer receipt for 2.5M VND to Nguyen Van An.
+✓         map → map             5m59s  Workshop Coffee meetup details in Google Maps
+✓        chat → chat            3m45s  MLH Hacktoberfest Dev Team reminder about submissions deadline.
+✓ credentials → credentials 🔒  3m36s  The Workshop WiFi login details screenshot.
+✓       error → error           3m42s  Slothshot reports SQLite error near '...' in db.py
+
+screenshots scored     16
+category accuracy      14/16
+sensitive  recall      4/4   false alarms 0
+remember   recall      6/6   false alarms 3
+secrets in database    0 
+chew time              avg 4m16s, min 3m25s, max 6m37s, total 1h08m
